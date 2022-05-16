@@ -5,4 +5,5 @@ services:
     branch: main
     deploy_on_push: true
     repo: disposedtrolley/sample-dockerfile
+  http_port: 3000
   name: main
